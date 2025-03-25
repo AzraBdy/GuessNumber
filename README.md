@@ -1,3 +1,2 @@
 # GuessNumber
-
-![image](https://github.com/user-attachments/assets/37c90e0c-9d49-4859-9b22-fe002811cc4f)
+![guessgame](https://github.com/user-attachments/assets/3d520f1e-6d4d-4fcf-b937-69542b27d772)
